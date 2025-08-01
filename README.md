@@ -6,7 +6,7 @@ This little TG-bot is your faithful guardian of the Code Universe! It secretly s
 ## Demo & Support
 
 🤖 **Demo Bot**: [t.me/commiter_bot](https://t.me/commiter_bot)  
-🔧 **Order Bot Installation**: [t.me/flabbycloud_bot](https://t.me/flabbycloud_bot?start=465926682)
+🔧 **Order server for bot**: [t.me/flabbycloud_bot](https://t.me/flabbycloud_bot)
 
 
 ## Features
